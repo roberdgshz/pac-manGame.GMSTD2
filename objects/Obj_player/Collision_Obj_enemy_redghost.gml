@@ -9,7 +9,7 @@ if (other.sprite_index == Spr_ghost_scared){
 		speed = 4;
 		sprite_index = Spr_redghost_up;
 	}
-}else if !(global.golpe){
+}else if !(global.golpe) && (x = other.x || y = other.y){
 	audio_stop_all();
 	audio_play_sound(Snd_death,10,0);
 	speed = 0;
