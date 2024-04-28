@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Spr_pinkhost_left",
+  "%Name":"Spr_pinkghost_left",
   "bboxMode":0,
   "bbox_bottom":63,
   "bbox_left":0,
@@ -21,19 +21,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"9d4876a3-8efb-466e-8f98-ffda5a28b4de","blendMode":0,"displayName":"default","isLocked":false,"name":"9d4876a3-8efb-466e-8f98-ffda5a28b4de","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Spr_pinkhost_left",
+  "name":"Spr_pinkghost_left",
   "nineSlice":null,
   "origin":0,
   "parent":{
     "name":"enemy_pinkghost",
-    "path":"folders/Scripts/enemies/enemy_pinkghost.yy",
+    "path":"folders/Sprites/enemies/enemy_pinkghost.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Spr_pinkhost_left",
+    "%Name":"Spr_pinkghost_left",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Spr_pinkhost_left",
+    "name":"Spr_pinkghost_left",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5c3f51d8-af31-4a0b-94bd-6464ed00383e","path":"sprites/Spr_pinkhost_left/Spr_pinkhost_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5c3f51d8-af31-4a0b-94bd-6464ed00383e","path":"sprites/Spr_pinkghost_left/Spr_pinkghost_left.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"621c1735-8f78-436e-bbcc-189f40a30fc9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

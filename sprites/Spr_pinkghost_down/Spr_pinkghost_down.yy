@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"enemy_pinkghost",
-    "path":"folders/Scripts/enemies/enemy_pinkghost.yy",
+    "path":"folders/Sprites/enemies/enemy_pinkghost.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

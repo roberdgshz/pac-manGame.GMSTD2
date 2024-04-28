@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"fruits",
-    "path":"folders/Scripts/fruits.yy",
+    "path":"folders/Sprites/fruits.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

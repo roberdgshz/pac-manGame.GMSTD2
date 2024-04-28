@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"enemy_scaredghost",
-    "path":"folders/Scripts/enemies/enemy_scaredghost.yy",
+    "path":"folders/Sprites/enemies/enemy_scaredghost.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

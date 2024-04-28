@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"enemy_blueghost",
-    "path":"folders/Scripts/enemies/enemy_blueghost.yy",
+    "path":"folders/Sprites/enemies/enemy_blueghost.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

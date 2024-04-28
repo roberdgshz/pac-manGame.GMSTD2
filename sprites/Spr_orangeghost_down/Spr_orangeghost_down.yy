@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"enemy_orangeghost",
-    "path":"folders/Scripts/enemies/enemy_orangeghost.yy",
+    "path":"folders/Sprites/enemies/enemy_orangeghost.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

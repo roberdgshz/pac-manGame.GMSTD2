@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"enemy_redghosy",
-    "path":"folders/Scripts/enemies/enemy_redghosy.yy",
+    "name":"enemy_redghost",
+    "path":"folders/Sprites/enemies/enemy_redghost.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"points",
-    "path":"folders/Scripts/points.yy",
+    "path":"folders/Sprites/points.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
