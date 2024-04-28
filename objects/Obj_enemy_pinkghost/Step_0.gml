@@ -1,3 +1,16 @@
+if(global.golpe){
+	speed = 0;
+	vspeed = 0;
+	hspeed = 0;
+	visible = false;
+	
+	x = xstart;
+	y = ystart;
+	exit;
+}else{
+	visible = true;
+}
+
 if(!global.poder){
 	if place_snapped(64,64){
 		if hspeed == 0 {

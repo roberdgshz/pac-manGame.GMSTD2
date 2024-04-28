@@ -2,6 +2,7 @@
 // Puede escribir su código en este editor
 if (other.sprite_index == Spr_ghost_scared){
 	global.puntos += 200;
+	audio_play_sound(Snd_eatghost,10,0);
 	with(other){
 		x = xstart;
 		y = ystart;
@@ -9,6 +10,8 @@ if (other.sprite_index == Spr_ghost_scared){
 		sprite_index = Spr_pinkghost_up;
 	}
 }else if !(global.golpe){
+	audio_stop_all();
+	audio_play_sound(Snd_death,10,0);
 	speed = 0;
 	global.vidas -= 1;
 	sprite_index = Spr_player_dies;

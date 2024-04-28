@@ -1,5 +1,5 @@
 //Movimientos
-if (global.golpe)exit;
+if (global.golpe)||audio_is_playing(Snd_beginning) exit;
 
 if keyboard_check(vk_right) && place_free(x+1,y) && place_snapped(32,32){
 	direction = 0;

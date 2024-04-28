@@ -9,4 +9,10 @@ if (sprite_index == Spr_player_dies){
 	image_index = 0;
 	
 	global.golpe = false;
+	
+	audio_play_sound(Snd_beginning,10,0);
+	instance_deactivate_object(Obj_enemy_blueghost);
+	instance_deactivate_object(Obj_enemy_redghost);
+	instance_deactivate_object(Obj_enemy_orangeghost);
+	instance_deactivate_object(Obj_enemy_pinkghost);
 }

@@ -1,3 +1,4 @@
+randomize();
 sprite_index = Spr_pinkghost_up;
 image_speed = 0;
 

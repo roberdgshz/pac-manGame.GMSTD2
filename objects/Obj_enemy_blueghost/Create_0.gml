@@ -1,3 +1,4 @@
+randomize();
 sprite_index = Spr_blueghost_up;
 image_speed = 0;
 

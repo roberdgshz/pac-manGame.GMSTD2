@@ -1,5 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+audio_play_sound(Snd_chomp,10,0);
 alarm[0] = room_speed*5;
 
 global.puntos += 50;
