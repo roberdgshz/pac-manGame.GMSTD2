@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"pac-man",
-    "path":"pac-man.yyp",
+    "name":"wall",
+    "path":"folders/Sprites/rooms/wall.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

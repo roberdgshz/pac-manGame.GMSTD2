@@ -31,8 +31,11 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Obj_enemy_blueghost","order":1,"path":"objects/Obj_enemy_blueghost/Obj_enemy_blueghost.yy",},
-    {"name":"Obj_enemy_pinkghost","order":2,"path":"objects/Obj_enemy_pinkghost/Obj_enemy_pinkghost.yy",},
     {"name":"Obj_enemy_orangeghost","order":3,"path":"objects/Obj_enemy_orangeghost/Obj_enemy_orangeghost.yy",},
+    {"name":"Obj_enemy_pinkghost","order":2,"path":"objects/Obj_enemy_pinkghost/Obj_enemy_pinkghost.yy",},
+    {"name":"Obj_gamecontrol","order":1,"path":"objects/Obj_gamecontrol/Obj_gamecontrol.yy",},
+    {"name":"Obj_point","order":2,"path":"objects/Obj_point/Obj_point.yy",},
+    {"name":"Obj_powerpoint","order":3,"path":"objects/Obj_powerpoint/Obj_powerpoint.yy",},
     {"name":"Spr_blueghost_left","order":1,"path":"sprites/Spr_blueghost_left/Spr_blueghost_left.yy",},
     {"name":"Spr_blueghost_right","order":2,"path":"sprites/Spr_blueghost_right/Spr_blueghost_right.yy",},
     {"name":"Spr_blueghost_up","order":3,"path":"sprites/Spr_blueghost_up/Spr_blueghost_up.yy",},
@@ -50,6 +53,6 @@
     {"name":"Spr_redghost_down","order":1,"path":"sprites/Spr_redghost_down/Spr_redghost_down.yy",},
     {"name":"Spr_redghost_left","order":2,"path":"sprites/Spr_redghost_left/Spr_redghost_left.yy",},
     {"name":"Spr_redghost_right","order":3,"path":"sprites/Spr_redghost_right/Spr_redghost_right.yy",},
-    {"name":"Spr_solidwall","order":16,"path":"sprites/Spr_solidwall/Spr_solidwall.yy",},
+    {"name":"Spr_solidwall","order":1,"path":"sprites/Spr_solidwall/Spr_solidwall.yy",},
   ],
 }
