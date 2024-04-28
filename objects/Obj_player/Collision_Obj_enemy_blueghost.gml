@@ -1,6 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-if (global.poder){
+if (other.sprite_index == Spr_ghost_scared){
 	global.puntos += 200;
 	with(other){
 		x = xstart;

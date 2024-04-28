@@ -1,5 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+alarm[0] = room_speed*5;
+
 global.puntos += 50;
 global.poder = true;
 with(Obj_enemy_blueghost){
